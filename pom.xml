@@ -6,7 +6,6 @@
     <groupId>com.github.automatedowl</groupId>
     <artifactId>selenium-java-pom-example</artifactId>
     <version>1.0.7</version>
-    <packaging>war</packaging>
     <properties>
         <aspectj.version>1.9.1</aspectj.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
